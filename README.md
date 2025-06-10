@@ -1,21 +1,3 @@
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Siser-Pratap&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Siser-Pratap&icon=2&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Siser) 
-
-
-
-
 <h1 align="Center">  Hi There ,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />  I'm Siser Pratap</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 <h2><a target="_blank">
@@ -43,6 +25,17 @@ Connect :
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Siser-Pratap&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="Siser-Pratap" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Siser-Pratap&theme=dark&bg_color=000000" alt="Siser-Pratap" /></p>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Siser-Pratap&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Siser-Pratap&icon=2&color=0)](https://visitcount.itsvg.in)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
