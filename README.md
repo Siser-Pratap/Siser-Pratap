@@ -26,8 +26,6 @@ Connect :
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Siser-Pratap&theme=dark&bg_color=000000" alt="Siser-Pratap" /></p>
 
-<a href="https://portfolio-siser-pratap.vercel.app/">Portfolio</a>
-
  <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siser-Pratap&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
