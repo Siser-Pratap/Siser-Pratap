@@ -13,27 +13,7 @@
     Bringing startup agility & large-scale builder mindset to intelligent, production-ready systems.
   </p>
 
-  <!-- Social & Quick Links Badges (Catppuccin Styled Badges) -->
-  <p align="center">
-    <a href="https://siserpratap.in" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-89B4FA?style=for-the-badge&logo=googlechrome&logoColor=1E1E2E&labelColor=1E1E2E" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/siser" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-89DCEB?style=for-the-badge&logo=linkedin&logoColor=1E1E2E&labelColor=1E1E2E" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/Siser-Pratap" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-CBA6F7?style=for-the-badge&logo=github&logoColor=1E1E2E&labelColor=1E1E2E" alt="GitHub" />
-    </a>
-    <a href="https://leetcode.com/u/siser_ins17" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FAB387?style=for-the-badge&logo=leetcode&logoColor=1E1E2E&labelColor=1E1E2E" alt="LeetCode" />
-    </a>
-    <a href="https://x.com/PratapSiser" target="_blank">
-      <img src="https://img.shields.io/badge/X-A6ADC8?style=for-the-badge&logo=x&logoColor=1E1E2E&labelColor=1E1E2E" alt="X / Twitter" />
-    </a>
-    <a href="mailto:siserinsevoc@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E&labelColor=1E1E2E" alt="Email" />
-    </a>
-  </p>
+  
 
 </div>
 
