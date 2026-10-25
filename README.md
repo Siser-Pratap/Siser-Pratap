@@ -5,12 +5,12 @@
 
   <!-- Animated Typing Subtitle (Catppuccin Mocha) -->
   <a href="https://siserpratap.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&lines=Full+Stack+%26+AI+Software+Developer;Architecting+Production-Ready+Web+%26+AI+Systems;Creator+of+Authence+%26+IntelAI;Building+Scalable+Cloud-Native+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=750&lines=I+bring+ideas+to+life;Building+products+that+matter;Making+systems+smarter+with+AI;Frontends+that+feel+effortless;Backends+built+to+scale;AI+that+goes+beyond+prompts" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    🚀 <b>Full-Stack & AI Developer</b> based in <b>Gurugram, India</b>.<br/>
-    Specializing in modern web architectures, scalable microservices, and LLM-powered applications.
+    🚀 <b>Full-Stack & AI Software Developer</b> based in <b>Gurugram, India</b>.<br/>
+    Bringing startup agility & large-scale builder mindset to intelligent, production-ready systems.
   </p>
 
   <!-- Social & Quick Links Badges (Catppuccin Styled Badges) -->
@@ -21,11 +21,14 @@
     <a href="https://linkedin.com/in/siser" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-89DCEB?style=for-the-badge&logo=linkedin&logoColor=1E1E2E&labelColor=1E1E2E" alt="LinkedIn" />
     </a>
-    <a href="https://x.com/PratapSiser" target="_blank">
-      <img src="https://img.shields.io/badge/X-CBA6F7?style=for-the-badge&logo=x&logoColor=1E1E2E&labelColor=1E1E2E" alt="X / Twitter" />
+    <a href="https://github.com/Siser-Pratap" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-CBA6F7?style=for-the-badge&logo=github&logoColor=1E1E2E&labelColor=1E1E2E" alt="GitHub" />
     </a>
-    <a href="https://www.leetcode.com/siser_ins17" target="_blank">
+    <a href="https://leetcode.com/u/siser_ins17" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FAB387?style=for-the-badge&logo=leetcode&logoColor=1E1E2E&labelColor=1E1E2E" alt="LeetCode" />
+    </a>
+    <a href="https://x.com/PratapSiser" target="_blank">
+      <img src="https://img.shields.io/badge/X-A6ADC8?style=for-the-badge&logo=x&logoColor=1E1E2E&labelColor=1E1E2E" alt="X / Twitter" />
     </a>
     <a href="mailto:siserinsevoc@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E&labelColor=1E1E2E" alt="Email" />
@@ -36,46 +39,64 @@
 
 ---
 
-### 👨‍💻 About Me
+### ✨ About Me
 
-- 🔭 **What I Do:** Build and ship production-grade web applications, interactive 3D web interfaces, and end-to-end AI systems.
-- 💡 **Key Passions:** Generative AI & agentic workflows, microservice architectures, and open-source tooling.
-- 🛠️ **Current Focus:** Scaling **[Authence](https://github.com/Siser-Pratap/Authence)** (open-source auth & authorization tool) and building next-gen conversational platforms with **[IntelAI](https://github.com/Siser-Pratap/intelai)**.
-- 🌍 **Collaboration:** Open to freelance projects, consulting, and full-time software engineering / AI engineering roles worldwide.
-- ⚡ **Fun Fact:** When I'm not coding, I experiment with Three.js / React Three Fiber shaders and explore cutting-edge AI research papers.
+> *“I don't just write code. I bring ideas to life, build products that matter, and make them smarter with AI.”*
+
+Startups taught me to build without a playbook, own problems end-to-end, and ship products that matter. At MNCs, I'm bringing that same builder mindset to large-scale engineering — building reliable, high-performance systems designed to handle real-world complexity.
+
+**Frontends that feel effortless. Backends built to scale. AI that goes beyond prompts.**  
+I bring it all together to engineer intelligent, reliable products built for the real world.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### ⚡ The Tech Behind What I Build
+
+* 🧠 **Intelligence beyond prompts:**  
+  `Python` • `LLMs` • `RAG` • `LangChain` • `LangGraph` • `PyTorch` • `Computer Vision`
+
+* 💻 **Experiences that click, products that stick:**  
+  `TypeScript` • `JavaScript` • `React` • `Next.js` • `Node.js` • `FastAPI` • `NestJS`
+
+* ☁️ **Built to scale, engineered to last:**  
+  `AWS` • `Docker` • `Kubernetes` • `Redis` • `PostgreSQL` • `MongoDB`
+
+<br/>
 
 <div align="center">
 
-#### 🌐 Languages & Frontend
+#### 🧠 Intelligence Beyond Prompts
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/OpenCV-5C3D2E?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### 💻 Experiences That Click, Products That Stick
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-#### ⚙️ Backend, AI & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ☁️ Built To Scale, Engineered To Last
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
 ---
 
 ### 🚀 Featured Projects
+
+> *“Enough about me. Let the code do some talking.”* 🚀
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
@@ -116,17 +137,20 @@
 
 ---
 
-### 🤝 Get In Touch
+### 🤝 Let's Connect & Build
 
 <div align="center">
 
-Whether you want to discuss a project, need a consultation on full-stack or AI architectures, or just want to say hi:
+Curiosity keeps me exploring. Challenges keep me building. Always excited to connect with people pushing boundaries in AI, engineering, and tech.  
+If you're building something exciting or just love a good tech conversation, let's connect and exchange ideas.
 
-[![Email](https://img.shields.io/badge/Gmail-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E&labelColor=1E1E2E)](mailto:siserinsevoc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-89DCEB?style=for-the-badge&logo=linkedin&logoColor=1E1E2E&labelColor=1E1E2E)](https://linkedin.com/in/siser)
-[![Twitter / X](https://img.shields.io/badge/X-CBA6F7?style=for-the-badge&logo=x&logoColor=1E1E2E&labelColor=1E1E2E)](https://x.com/PratapSiser)
-[![Portfolio](https://img.shields.io/badge/Website-89B4FA?style=for-the-badge&logo=googlechrome&logoColor=1E1E2E&labelColor=1E1E2E)](https://siserpratap.in)
-[![GitHub](https://img.shields.io/badge/GitHub-A6ADC8?style=for-the-badge&logo=github&logoColor=1E1E2E&labelColor=1E1E2E)](https://github.com/Siser-Pratap)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-siserpratap.in-89B4FA?style=for-the-badge&logo=googlechrome&logoColor=1E1E2E&labelColor=1E1E2E)](https://siserpratap.in)
+[![GitHub](https://img.shields.io/badge/GitHub-Siser--Pratap-CBA6F7?style=for-the-badge&logo=github&logoColor=1E1E2E&labelColor=1E1E2E)](https://github.com/Siser-Pratap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siser-89DCEB?style=for-the-badge&logo=linkedin&logoColor=1E1E2E&labelColor=1E1E2E)](https://linkedin.com/in/siser)
+[![LeetCode](https://img.shields.io/badge/LeetCode-siser__ins17-FAB387?style=for-the-badge&logo=leetcode&logoColor=1E1E2E&labelColor=1E1E2E)](https://leetcode.com/u/siser_ins17)
+[![Email](https://img.shields.io/badge/Email-siserinsevoc%40gmail.com-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E&labelColor=1E1E2E)](mailto:siserinsevoc@gmail.com)
 
 <br/>
 
