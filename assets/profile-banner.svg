@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Siser Pratap</title>
+  <desc id="desc">Software engineer. Web applications, AI systems, developer tools.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#ffffff" opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="#111820"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <path d="M0 0H1200" stroke="#ff794f" stroke-width="8"/>
+  <rect x="56" y="51" width="28" height="4" rx="2" fill="#ff794f"/>
+  <text x="98" y="58" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#c9d2de">SOFTWARE ENGINEER</text>
+  <text x="52" y="148" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-2" fill="#f5f7fa">Siser Pratap<tspan fill="#ff794f">.</tspan></text>
+  <text x="57" y="190" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#bbc6d4">Web applications. AI systems. Developer tools.</text>
+  <text x="57" y="252" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#ff9b7b">siserpratap.in</text>
+  <g fill="none" stroke="#4d6279" stroke-width="2">
+    <rect x="872" y="62" width="218" height="178" rx="14"/>
+    <path d="M872 100H1090M899 82H901M913 82H915M927 82H929"/>
+    <path d="M930 133L908 157L930 181M1032 133L1054 157L1032 181" stroke="#ff9b7b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M997 125L965 191" stroke="#e2e8f0" stroke-width="4" stroke-linecap="round"/>
+    <path d="M900 215H967M979 215H1020" stroke="#4d6279"/>
+    <path d="M850 220H830V44H1050V62M1090 100H1112V257H925V240" opacity=".55"/>
+  </g>
+</svg>
