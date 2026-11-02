@@ -93,15 +93,15 @@ I bring it all together to engineer intelligent, reliable products built for the
   <table border="0">
     <tr>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Siser-Pratap&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="Siser's GitHub Stats" />
+        <img height="185em" src="https://github-stats-extended.vercel.app/api?username=Siser-Pratap&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="Siser's GitHub Stats" />
       </td>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siser-Pratap&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
+        <img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Siser-Pratap&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Siser-Pratap&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
+        <img width="98%" src="./profile/streak.svg" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
